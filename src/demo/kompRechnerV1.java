@@ -1,9 +1,10 @@
 package demo;
-
+import AlgoTools.IO;
 public class kompRechnerV1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		
 
 	}
 

@@ -3,7 +3,7 @@ package demo;
 public class kompZahl {
 	
 	//Eigenschaften, Instanzvariablen
-	private double reel;
+	private double real;
 	private double imag;
 	
 	//Konstruktor
